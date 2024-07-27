@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HMDLong
-- 👀 I’m interested in Data Science and Deep Learning
-- 🌱 I’m currently learning the basics of AI
+- 👀 Love to make stuffs, can make some stuff but still kinda suck.
 - 📫 How to reach me long.hmd2000@gmail.com
 
 <!---
